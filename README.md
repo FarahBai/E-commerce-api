@@ -54,3 +54,7 @@ npm run dev
 - POST /api/cart
 - GET /api/cart/:id
 - POST /api/cart/:id/items
+
+## Update
+
+Minor documentation update before the final GitHub submission.
